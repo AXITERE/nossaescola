@@ -33,4 +33,7 @@ text-align: center;
 font-family: 'Inter', sans-serif;
 font-weight: 900;
 font-size: 91px;
+display: flex;
+justify-content: center;
+padding: 30px;
 }
