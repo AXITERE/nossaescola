@@ -3,7 +3,7 @@
 }
 .mostarda{
 background-color: #B7730E;
-width:720px ;
+width:1000px ;
 height: 297px;
 display: flex;
 justify-content: center;
@@ -15,12 +15,17 @@ padding:34px;
 }
 .cinza{
 background-color: #B0AFAF;
-width:720px ;
+width:1000px ;
 height: 297px;
 display:flex;
 justify-content: center;
 font-family: 'Inconsolata', monospace;
 font-weight: 700;
 font-size: 64px;
-
+}
+.cinza_texto {
+display: inline-flex;
+align-items: center;
+margin: 77px;
+text-align: center;
 }
