@@ -20,5 +20,7 @@ height: 297px;
 display:flex;
 justify-content: center;
 font-family: 'Inconsolata', monospace;
-}
+font-weight: 700;
+font-size: 64px;
 
+}
