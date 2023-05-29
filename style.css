@@ -3,7 +3,7 @@
    }
    .mostarda{
    background-color: #B7730E;
-   width:800px ;
+   width:900px ;
    height: 297px;
    display: flex;
    justify-content: center;
@@ -15,7 +15,7 @@
    }
    .cinza{
    background-color: #B0AFAF;
-   width:800px ;
+   width:1000px ;
    height: 297px;
    display:flex;
    justify-content: center;
@@ -35,14 +35,14 @@
    font-size: 91px;
    display: flex;
    justify-content: center;
-   padding: 30px;
+   padding: 10px;
    }
    .texto{
    font-family: 'Inter', sans-serif;   
    font-weight: 400;
    font-size: 40px;
    text-align: justify;
-   margin: 20px;
+   margin: 80px;
    width: 1400px;
    height: 200px;
    }
@@ -50,8 +50,8 @@
    display:grid;
    grid-template-columns: 800px 800px;
    row-gap: 90px;
-   column-gap: 35px;
-   margin: 70px;
+   column-gap: 90px;
+   margin: 110px;
    padding-bottom: 27px;
    }
 .fachada_identificação {
