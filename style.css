@@ -9,7 +9,7 @@ display: flex;
 justify-content: center;
 }
 .mostarda-imagem{
-width:233.53px;
+width: 200px;
 height:229.74px;
 padding:34px;
 }
@@ -42,7 +42,7 @@ font-family: 'Inter', sans-serif;
 font-weight: 400;
 font-size: 40px;
 text-align: justify;
-margin: 35px;
+margin: 20px;
 width: 1700px;
 height: 200px;
 }
@@ -54,5 +54,3 @@ column-gap: 35px;
 margin: 45px;
 padding-bottom: 27px;
 }
-
-
