@@ -46,3 +46,13 @@ margin: 35px;
 width: 1700px;
 height: 200px;
 }
+.estrutura {
+display:grid;
+grid-template-columns: 675px 675px;
+row-gap: 90px;
+column-gap: 35px;
+margin: 28px;
+padding-bottom: 27px;
+}
+
+
