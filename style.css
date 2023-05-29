@@ -3,19 +3,19 @@
 }
 .mostarda{
 background-color: #B7730E;
-width:1000px ;
+width:800px ;
 height: 297px;
 display: flex;
 justify-content: center;
 }
 .mostarda-imagem{
-width: 200px;
+width: 150px;
 height:229.74px;
 padding:34px;
 }
 .cinza{
 background-color: #B0AFAF;
-width:1000px ;
+width:600px ;
 height: 297px;
 display:flex;
 justify-content: center;
@@ -43,7 +43,7 @@ font-weight: 400;
 font-size: 40px;
 text-align: justify;
 margin: 20px;
-width: 2000px;
+width: 1600px;
 height: 200px;
 }
 .estrutura {
