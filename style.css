@@ -43,7 +43,7 @@ font-weight: 400;
 font-size: 40px;
 text-align: justify;
 margin: 20px;
-width: 1600px;
+width: 1400px;
 height: 200px;
 }
 .estrutura {
@@ -51,6 +51,6 @@ display:grid;
 grid-template-columns: 800px 800px;
 row-gap: 90px;
 column-gap: 35px;
-margin: 45px;
+margin: 90px;
 padding-bottom: 27px;
 }
