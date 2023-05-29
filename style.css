@@ -48,7 +48,7 @@ height: 200px;
 }
 .estrutura {
 display:grid;
-grid-template-columns: 675px 675px;
+grid-template-columns: 800px 800px;
 row-gap: 90px;
 column-gap: 35px;
 margin: 28px;
