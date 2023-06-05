@@ -15,7 +15,7 @@
    }
    .cinza{
    background-color: #B0AFAF;
-   width:1000px ;
+   width:720px ;
    height: 297px;
    display:flex;
    justify-content: center;
@@ -26,7 +26,7 @@
    .cinza_texto {
    display: inline-flex;
    align-items: center;
-   margin: 50px;
+   margin: 77px;
    text-align: center;
    }
    .titulo{
@@ -35,23 +35,23 @@
    font-size: 91px;
    display: flex;
    justify-content: center;
-   padding: 10px;
+   padding: 30px;
    }
    .texto{
    font-family: 'Inter', sans-serif;   
-   font-weight: 700;
+   font-weight: 400;
    font-size: 40px;
    text-align: justify;
-   margin: 100px;
-   width: 2000px;
-   height: 200px;
+   margin: 35px;
+   width: 1362px;
+   height: 240px;
    }
    .estrutura {
    display:grid;
-   grid-template-columns: 800px 800px;
+   grid-template-columns: 675px 675px;
    row-gap: 90px;
-   column-gap: 90px;
-   margin: 110px;
+   column-gap: 35px;
+   margin: 28px;
    padding-bottom: 27px;
    }
 .fachada_identificação {
@@ -59,6 +59,50 @@ font-family: 'Inter', sans-serif;
 font-weight: 600;
 font-size: 36px;
 text-align: center;
+}
+.laboratorio_imagem {
+display: block;
+width: 675px;
+height: 393.58px;
+}
+.laboratorio_identificação {
+font-family: 'Inter'sans-serif;
+font-weight: 600;
+font-size: 36px;
+text-align: center;
+}
+.quadra_identificação {
+font-family: 'Inter'sans-serif;
+font-weight: 600;
+font-size: 36px;
+text-align: center;
+}
+.patio_identificação {
+font-family: 'Inter'sans-serif;
+font-weight: 600;
+font-size: 36px;
+text-align: center;
+}
+.rodape {
+background-color: black;
+width: 1440px;
+height: 172px;
+display: grid;
+grid-template-columns: 230px 34px 1900px;
+padding: 20px;
+}
+.link {
+color: #FFFFFF;
+font-family: 'Inter'sans-serif;
+font-weight: 900;
+font-size: 32px;
+text-align: center;
+padding-top: 35px;
+}
+.a:link {
+color: #FFFFFF;
+.a:hover {
+color:#B7730E;
 }
 .icone {
 display:grid;
