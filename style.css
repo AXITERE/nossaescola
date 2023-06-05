@@ -24,6 +24,7 @@
    font-size: 64px;
    }
    .cinza_texto {
+.fachada_identificação {
    display: inline-flex;
    align-items: center;
    margin: 50px;
@@ -42,7 +43,7 @@
    font-weight: 700;
    font-size: 40px;
    text-align: justify;
-   margin: 100px;
+   margin: 200px;
    width: 2200px;
    height: 200px;
    }
@@ -51,7 +52,7 @@
    grid-template-columns: 800px 800px;
    row-gap: 90px;
    column-gap: 90px;
-   margin: 150px;
+   margin: 200px;
    padding-bottom: 27px;
    }
 .fachada_identificação {
